@@ -2,6 +2,7 @@ export const pi=3.14
 export function abc(a,b)
 {
     return a+b
+    //comment
 }
 
 export default function mul(a,b){
